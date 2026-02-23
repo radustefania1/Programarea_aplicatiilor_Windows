@@ -1,0 +1,7 @@
+D:\Informatica economica A2 S2\Programarea aplicatiilor windows\Seminar 1 Paw\bin\Debug\Seminar 1 Paw.exe.config
+D:\Informatica economica A2 S2\Programarea aplicatiilor windows\Seminar 1 Paw\bin\Debug\Seminar 1 Paw.exe
+D:\Informatica economica A2 S2\Programarea aplicatiilor windows\Seminar 1 Paw\bin\Debug\Seminar 1 Paw.pdb
+D:\Informatica economica A2 S2\Programarea aplicatiilor windows\Seminar 1 Paw\obj\Debug\Seminar 1 Paw.csproj.AssemblyReference.cache
+D:\Informatica economica A2 S2\Programarea aplicatiilor windows\Seminar 1 Paw\obj\Debug\Seminar 1 Paw.csproj.CoreCompileInputs.cache
+D:\Informatica economica A2 S2\Programarea aplicatiilor windows\Seminar 1 Paw\obj\Debug\Seminar 1 Paw.exe
+D:\Informatica economica A2 S2\Programarea aplicatiilor windows\Seminar 1 Paw\obj\Debug\Seminar 1 Paw.pdb

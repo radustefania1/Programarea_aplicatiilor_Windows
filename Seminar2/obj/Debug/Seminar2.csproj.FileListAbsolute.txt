@@ -1,0 +1,7 @@
+D:\Informatica economica A2 S2\Programarea aplicatiilor windows\Seminar2\bin\Debug\Seminar2.exe.config
+D:\Informatica economica A2 S2\Programarea aplicatiilor windows\Seminar2\bin\Debug\Seminar2.exe
+D:\Informatica economica A2 S2\Programarea aplicatiilor windows\Seminar2\bin\Debug\Seminar2.pdb
+D:\Informatica economica A2 S2\Programarea aplicatiilor windows\Seminar2\obj\Debug\Seminar2.csproj.AssemblyReference.cache
+D:\Informatica economica A2 S2\Programarea aplicatiilor windows\Seminar2\obj\Debug\Seminar2.csproj.CoreCompileInputs.cache
+D:\Informatica economica A2 S2\Programarea aplicatiilor windows\Seminar2\obj\Debug\Seminar2.exe
+D:\Informatica economica A2 S2\Programarea aplicatiilor windows\Seminar2\obj\Debug\Seminar2.pdb
